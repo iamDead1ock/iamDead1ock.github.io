@@ -5,7 +5,7 @@ title                    : "Jiahao Ji's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://github.com/iamDead1ock
+url                      : https://iamDead1ock.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iamDead1ock/iamDead1ock.github.io"
 
@@ -14,11 +14,11 @@ repository               : "iamDead1ock/iamDead1ock.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "MyPicture.png"
   name             : "Ji Jiahao"
   pronouns         : "he/his"  
   bio              : "Undergraduate 26' @ Northeastern University(CN)"
-  location         : "China"
+  location         : "Shenyang,China"
   employer         : # "Northeastern University"
   uri              : # URL
   email            : "g1016229463@gmail.com" 
