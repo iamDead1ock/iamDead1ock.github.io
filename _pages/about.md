@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Jiahao Ji"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a junior student at the College Of Information Science and Engineering, Northeastern University.. My research interests include natural language processing.
+I am a third year undergraduate student from  [the College Of Information Science and Engineering](http://www.ise.neu.edu.cn/), [Northeastern University](https://www.neu.edu.cn/). My research interests include natural language processing.
